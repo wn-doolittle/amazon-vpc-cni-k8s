@@ -8,12 +8,12 @@ require (
 	github.com/containernetworking/plugins v0.9.0
 	github.com/coreos/go-iptables v0.4.5
 	github.com/golang/mock v1.4.1
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
 	github.com/google/go-jsonnet v0.16.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.0.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.4.1
+	github.com/prometheus/common v0.26.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.5.1
 	github.com/vishvananda/netlink v1.1.1-0.20201029203352-d40f9887b852
